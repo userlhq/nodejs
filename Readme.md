@@ -1,7 +1,3 @@
-# nodejs 
-test
-and 
-test
-ddddddddddd
-noe angin
-
+# study pyagame
+## tkinter
+    
